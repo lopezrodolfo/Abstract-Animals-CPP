@@ -1,3 +1,7 @@
+# Executables
+demo
+*.exe
+
 # VSCode workspace settings
 .vscode/
 
