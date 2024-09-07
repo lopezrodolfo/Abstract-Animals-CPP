@@ -1,5 +1,6 @@
 # Executables
 demo
+Dog
 *.exe
 
 # VSCode workspace settings
